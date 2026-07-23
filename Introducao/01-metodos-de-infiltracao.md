@@ -1,10 +1,10 @@
-# 2.2 Métodos de infiltração
+# Métodos de infiltração
 
 > Diário de estudos - módulo "Ataques, Conceitos e Técnicas"
 
 Imagina que um sistema, uma rede ou um dispositivo é tipo uma casa. Infiltração é qualquer jeito que alguém usa pra entrar nessa casa sem ter a chave, sem ter permissão. Às vezes esse "alguém" engana o morador pra ele mesmo abrir a porta. Às vezes ele encontra uma janela mal fechada. Às vezes ele nem tenta entrar, só fica jogando pedra na porta até ela quebrar. Cada tópico abaixo é um jeito diferente de fazer isso.
 
-## 2.2.1 Engenharia social
+## Engenharia social
 
 **O que é**
 Engenharia social é enganar uma pessoa pra ela mesma entregar algo que não devia, tipo uma senha, um acesso ou uma informação sigilosa.
@@ -22,7 +22,7 @@ O alvo aqui não é o computador, é o ser humano. O atacante não precisa saber
 **Por que é perigoso**
 Nenhum antivírus ou firewall protege contra isso, porque o problema não é técnico, é humano. A única defesa real é desconfiar de pedidos estranhos, mesmo que pareçam urgentes ou venham de alguém que parece confiável.
 
-## 2.2.2 Negação de Serviço (DoS)
+## Negação de Serviço (DoS)
 
 **O que é**
 DoS vem de "Denial of Service". É um ataque que não rouba nada, ele só quer deixar um site, sistema ou serviço fora do ar, ou tão lento que fica inútil.
@@ -33,7 +33,7 @@ Existem duas formas principais:
 - **Sobrecarga de tráfego** - o atacante manda uma quantidade enorme de requisições pro servidor, muito mais do que ele consegue processar. É tipo lotar a porta de uma loja com gente demais, até ninguém mais conseguir entrar
 - **Pacotes malformados** - em vez de mandar muita coisa, o atacante manda dados fora do padrão que o sistema espera. O sistema não sabe lidar com aquilo e trava
 
-## 2.2.3 DoS Distribuída (DDoS)
+## DoS Distribuída (DDoS)
 
 **O que é**
 É a versão em grupo do DoS. Em vez de um computador atacando sozinho, são vários ao mesmo tempo, geralmente milhares, todos mandando tráfego pro mesmo alvo junto.
@@ -41,7 +41,7 @@ Existem duas formas principais:
 **Por que é pior que um DoS comum**
 Duas razões. Primeiro, o volume de ataque é muito maior, então até sistemas bem preparados caem. Segundo, como o tráfego vem de endereços diferentes espalhados pelo mundo, fica bem mais difícil bloquear, porque não dá pra simplesmente banir um único IP.
 
-## 2.2.4 Botnet
+## Botnet
 
 **O que é**
 Uma botnet é uma rede de dispositivos infectados que um invasor controla remotamente, sem o dono de cada aparelho saber. Cada dispositivo dessa rede é chamado de "bot" ou "zumbi".
@@ -54,7 +54,7 @@ Sozinho, um dispositivo infectado não parece nada demais. Mas quando o atacante
 
 Praticamente qualquer coisa conectada à internet pode virar bot, computador, celular, roteador, câmera de segurança, até eletrodoméstico smart.
 
-## 2.2.5 Ataques On-Path
+## Ataques On-Path
 
 **O que é**
 Esse ataque também é conhecido pelo nome antigo "man-in-the-middle" (homem no meio). A ideia é o invasor se posicionar bem no meio da comunicação entre duas partes, por exemplo entre você e o site do seu banco, sem que nenhum dos dois perceba.
@@ -62,7 +62,7 @@ Esse ataque também é conhecido pelo nome antigo "man-in-the-middle" (homem no 
 **Como funciona na prática**
 Uma vez posicionado ali, o atacante consegue ler tudo que passa por aquela conexão, e às vezes até alterar os dados antes de entregar pro destino final. É bem comum em redes WiFi públicas mal configuradas, tipo aeroporto ou cafeteria, onde o atacante consegue se meter entre o seu dispositivo e o roteador.
 
-## 2.2.6 SEO Poisoning
+## SEO Poisoning
 
 **O que é SEO primeiro**
 SEO significa Search Engine Optimization, que são técnicas usadas pra fazer um site aparecer bem posicionado nos resultados do Google.
@@ -73,7 +73,7 @@ SEO Poisoning é usar essas mesmas técnicas de forma maliciosa, pra fazer sites
 **Como o golpe acontece**
 A vítima procura algo no Google, tipo "baixar programa X", vê um resultado bem no topo (que parece confiável só por estar em primeiro lugar) e clica sem desconfiar. Só que esse site foi manipulado pra aparecer ali, e na verdade é uma armadilha que instala malware ou rouba dados.
 
-## 2.2.7 Quebra de senha de acesso à rede WiFi
+## Quebra de senha de acesso à rede WiFi
 
 **O que é**
 São as técnicas usadas pra descobrir a senha de uma rede WiFi protegida sem ter autorização.
@@ -84,7 +84,7 @@ São as técnicas usadas pra descobrir a senha de uma rede WiFi protegida sem te
 - **Ataques de força bruta** - um programa vai testando várias combinações de senha, uma atrás da outra, até acertar
 - **Farejamento de rede (network sniffing)** - o atacante fica "escutando" o tráfego que passa pela rede WiFi, capturando os dados. Se a rede usa criptografia fraca ou desatualizada, dá pra extrair a senha analisando esse tráfego capturado
 
-## 2.2.8 Ataques de senha
+## Ataques de senha
 
 **O que é**
 São métodos mais gerais pra tentar quebrar ou adivinhar senha de qualquer tipo de conta, não só WiFi.
@@ -95,7 +95,7 @@ São métodos mais gerais pra tentar quebrar ou adivinhar senha de qualquer tipo
 - **Força bruta** - diferente do dicionário, aqui o programa testa literalmente todas as combinações possíveis de caracteres, letra por letra, até acertar. É mais lento, mas garante achar a senha em algum momento
 - **Ataque de tabela arco-íris (rainbow table)** - as senhas geralmente ficam guardadas de forma criptografada, em um formato chamado "hash", não em texto puro. Esse ataque usa tabelas já prontas com hashes calculados antecipadamente, o que acelera muito o processo de descobrir qual senha corresponde a qual hash
 
-## 2.2.9 Tempos de Cracking
+## Tempos de Cracking
 
 **O que é**
 "Cracking" aqui é o processo de quebrar uma senha por força bruta. "Tempo de cracking" é quanto tempo isso demora.
@@ -111,7 +111,7 @@ Uma senha curta e simples pode ser quebrada em poucos segundos com os computador
 **Detalhe importante**
 O tamanho da senha costuma pesar mais do que a complexidade sozinha. Uma senha de 16 caracteres simples geralmente é mais segura do que uma de 8 caracteres complexa.
 
-## 2.2.10 Ameaças persistentes avançadas (APT)
+## Ameaças persistentes avançadas (APT)
 
 **O que é**
 APT vem de "Advanced Persistent Threat". É um tipo de ataque bem diferente dos outros porque não é rápido, ele é planejado pra durar.
