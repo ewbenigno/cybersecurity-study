@@ -41,7 +41,7 @@ flowchart LR
 
 | #  | Tópico                                                                                          | Módulo                          | Status         |
 | --- | ------------------------------------------------------------------------------------------------ | -------------------------------- | -------------- |
-| 01 | [2.2 Métodos de infiltração](./Introdução/metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 01 | [2.2 Métodos de infiltração](/Introducao/metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
 
 ---
 
