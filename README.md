@@ -41,9 +41,9 @@ flowchart LR
 
 | #  | Tópico                                                                                          | Módulo                          | Status         |
 | --- | ------------------------------------------------------------------------------------------------ | -------------------------------- | -------------- |
-| 01 | [ Métodos de infiltração](/Introducao/Ataques, Conceitos e Tecnicas/01-metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
-| 02 | [ Exploits e Vulnerabilidades de segurança](/Introducao/Ataques, Conceitos e Tecnicas/02-exploits-e-vulnerabilidades-de-seguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
-| 03 | [ O Cenário da Cibersegurança](/Introducao/Ataques, Conceitos e Tecnicas/03-o-cenario-da-ciberseguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 01 | [ Métodos de infiltração](/Introducao/ataques-conceitos-tecnicas/01-metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 02 | [ Exploits e Vulnerabilidades de segurança](/Introducao/ataques-conceitos-tecnicas/02-exploits-e-vulnerabilidades-de-seguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 03 | [ O Cenário da Cibersegurança](/Introducao/ataques-conceitos-tecnicas/03-o-cenario-da-ciberseguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
 
 ---
 
