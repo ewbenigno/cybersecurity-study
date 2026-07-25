@@ -1,14 +1,14 @@
-# 3.1 Como proteger a rede e os dispositivos
+# Como proteger a rede e os dispositivos
 
 > Diário de estudos - módulo "Protegendo seus Dados e Privacidade"
 
 Até aqui os estudos mostraram os ataques, ou seja, o "lado ruim". Agora começa o "lado bom", como se proteger de tudo isso. Esse tópico é bem prático, dá pra aplicar cada dica direto no seu próprio computador, celular e roteador de casa.
 
-## 3.1.1 O que você acha?
+## O que você acha?
 
 Atividade de abertura do tópico, só pra fazer você pensar um pouco antes de entrar no conteúdo. Não tem teoria nova aqui, é tipo um aquecimento antes da aula de verdade começar.
 
-## 3.1.2 Proteger seus dispositivos de computação
+## Proteger seus dispositivos de computação
 
 **Explicando do zero**
 Todo aparelho que se conecta à internet, seja computador, celular ou tablet, precisa de camadas de proteção. Pensa assim, sua casa não tem só uma porta trancada, ela tem porta trancada, alarme, câmera. Com o dispositivo é a mesma lógica, cada proteção cobre um tipo de risco diferente.
@@ -21,7 +21,7 @@ Todo aparelho que se conecta à internet, seja computador, celular ou tablet, pr
 - **Backup** - é ter uma cópia dos seus arquivos guardada em outro lugar, tipo um HD externo ou a nuvem. Se o dispositivo for infectado, roubado ou simplesmente quebrar, você não perde tudo de uma vez
 - **Criptografia de disco** - embaralha os dados guardados no aparelho de um jeito que só quem tem a senha certa consegue ler. Mesmo que alguém roube o dispositivo fisicamente e tente tirar o disco pra ler os arquivos direto, sem a chave certa os dados ficam ilegíveis
 
-## 3.1.3 Segurança da rede sem fio em casa
+## Segurança da rede sem fio em casa
 
 **Explicando do zero**
 O roteador é a porta de entrada da internet na sua casa. Se ele fica mal protegido, é como deixar o portão de casa aberto, qualquer um de fora pode tentar entrar e usar sua rede, ou pior, espionar o que passa por ela.
@@ -33,7 +33,7 @@ O roteador é a porta de entrada da internet na sua casa. Se ele fica mal proteg
 - **Trocar o nome da rede (SSID)** - o nome padrão de fábrica costuma revelar o modelo do roteador. Isso ajuda um atacante a pesquisar exatamente quais falhas aquele modelo específico tem
 - **Desligar o que não usa** - funções como conexão por botão (WPS) ou acesso remoto ao roteador, se você nunca usa, é melhor deixar desligado. Cada função ativa é mais uma porta possível de entrada
 
-## 3.1.4 Riscos públicos de Wi-Fi
+## Riscos públicos de Wi-Fi
 
 **Explicando do zero**
 WiFi público (aeroporto, shopping, cafeteria) é bom porque é gratuito e aberto, mas essa mesma característica é o problema, ele é aberto pra todo mundo, inclusive gente mal-intencionada conectada na mesma rede que você.
@@ -46,12 +46,12 @@ Tem também um golpe chamado rede falsa, o atacante cria um ponto de WiFi com no
 **Como se proteger nessa situação**
 Evite acessar coisa sensível, tipo banco ou email importante, enquanto tiver conectado numa rede pública. Se puder, use uma VPN, que cria um "túnel" criptografado pro seu tráfego, dificultando bastante que alguém consiga espiar o que você tá fazendo, mesmo numa rede insegura.
 
-## 3.1.5 Segurança de senha
+## Segurança de senha
 
 **Explicando do zero**
 A senha é a chave da porta de qualquer conta sua. Não importa quanta segurança um serviço tenha por trás, se a senha for fraca, é como ter um cofre reforçado com a chave debaixo do tapete.
 
-## 3.1.6 Uma Senha Forte
+## Uma Senha Forte
 
 **O que faz uma senha ser forte**
 Lá no tópico de tempos de cracking vimos que quebrar uma senha por força bruta depende do tamanho dela e da variedade de caracteres. É basicamente a mesma lógica aqui, quanto mais longa e mais variada, mais tempo um atacante vai levar pra tentar todas as combinações possíveis.
@@ -63,7 +63,7 @@ Lá no tópico de tempos de cracking vimos que quebrar uma senha por força brut
 - Não usar coisa óbvia sobre você, tipo data de nascimento, nome de time ou nome de familiar
 - Ser diferente em cada conta, nunca repetir a mesma senha em serviços diferentes
 
-## 3.1.7 Usando uma frase secreta
+## Usando uma frase secreta
 
 **Explicando do zero**
 Frase secreta (passphrase) é uma alternativa à senha comum. Em vez de uma sequência de caracteres aleatórios que ninguém consegue guardar de cabeça, tipo "K9$mPz2!qL", você usa uma frase inteira, juntando várias palavras que não têm relação óbvia entre si.
@@ -71,7 +71,7 @@ Frase secreta (passphrase) é uma alternativa à senha comum. Em vez de uma sequ
 **Por que isso é bom**
 Uma frase é naturalmente mais longa que uma senha comum, e como já vimos, tamanho é um dos fatores que mais aumenta o tempo de quebra por força bruta. Um exemplo do conceito, uma frase tipo "CachorroAzulComeSeteBananas" é mais longa e mais difícil de quebrar do que uma senha curta cheia de símbolos, e ao mesmo tempo é bem mais fácil de lembrar.
 
-## 3.1.8 Diretrizes de Senha
+## Diretrizes de Senha
 
 **Explicando do zero**
 Depois de entender o que faz uma senha forte, essas são as regras práticas pra aplicar isso no dia a dia com todas as suas contas.
@@ -96,7 +96,7 @@ A versão mais recente desse documento, finalizada em 2025, mudou bastante coisa
 - **Fim das dicas de senha e perguntas de segurança** - perguntas tipo "nome do seu primeiro animal de estimação" saíram de recomendação, porque geralmente são informações fáceis de descobrir sobre alguém
 - **Incentivo forte à autenticação multifator** - o documento reforça que senha sozinha não deveria ser a única camada de proteção numa conta importante
 
-## 3.1.9 Verificação de senha
+## Verificação de senha
 
 **Explicando do zero**
 Depois de criar uma senha, dá pra checar de fato se ela é forte ou fraca antes de usar de verdade.

@@ -45,6 +45,7 @@ flowchart LR
 | 02 | [ Exploits e Vulnerabilidades de segurança](/Introducao/ataques-conceitos-tecnicas/02-exploits-e-vulnerabilidades-de-seguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
 | 03 | [ O Cenário da Cibersegurança](/Introducao/ataques-conceitos-tecnicas/03-o-cenario-da-ciberseguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
 | 04 | [ Como Proteger a Rede e os Dispositivos](/Introducao/protegendo-seus-dados-e-privacidade/04-como-proteger-a-rede-e-os-dispositivos.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 05 | [ Manutenção de Dados](/Introducao/protegendo-seus-dados-e-privacidade/04-manutencao-de-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
 
 ---
 
@@ -73,4 +74,4 @@ Consolidar o aprendizado em uma base sólida de Cibersegurança, com foco em seg
 
 ## Sobre
 
-Estudos conduzidos e documentados por @ewerson_dev, freelance fullstack developer e criador de conteúdo educativo sobre desenvolvimento web.
+Estudos conduzidos e documentados por Ewerson Benigno, freelance fullstack developer e criador de conteúdo educativo sobre desenvolvimento web.
