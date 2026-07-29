@@ -48,6 +48,7 @@ flowchart LR
 | 05 | [ Manutenção de Dados](/Introducao/protegendo-seus-dados-e-privacidade/05-manutencao-de-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
 | 06 | [ Quem é o Dono dos Seus Dados](/Introducao/protegendo-seus-dados-e-privacidade/06-quem-e-o-dono-dos-seus-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
 | 07 | [ Como Proteger a Privacidade Online](/Introducao/protegendo-seus-dados-e-privacidade/07-como-proteger-a-privacidade-online.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 08 | [ Dispositivos e Tecnologias na Segurança Cibernética](/Introducao/protegendo-a-organizacao/08-dispositivos-e-tecnologias-na-seguranca-cibernetica.md) | Protegendo a Organização | ✅ Concluído |
 
 ---
 
