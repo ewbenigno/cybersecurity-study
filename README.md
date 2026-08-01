@@ -41,14 +41,15 @@ flowchart LR
 
 | #  | Tópico                                                                                          | Módulo                          | Status         |
 | --- | ------------------------------------------------------------------------------------------------ | -------------------------------- | -------------- |
-| 01 | [ Métodos de infiltração](/Introducao/ataques-conceitos-tecnicas/01-metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
-| 02 | [ Exploits e Vulnerabilidades de segurança](/Introducao/ataques-conceitos-tecnicas/02-exploits-e-vulnerabilidades-de-seguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
-| 03 | [ O Cenário da Cibersegurança](/Introducao/ataques-conceitos-tecnicas/03-o-cenario-da-ciberseguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
-| 04 | [ Como Proteger a Rede e os Dispositivos](/Introducao/protegendo-seus-dados-e-privacidade/04-como-proteger-a-rede-e-os-dispositivos.md) | Protegendo seus dados e privacidade | ✅ Concluído |
-| 05 | [ Manutenção de Dados](/Introducao/protegendo-seus-dados-e-privacidade/05-manutencao-de-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
-| 06 | [ Quem é o Dono dos Seus Dados](/Introducao/protegendo-seus-dados-e-privacidade/06-quem-e-o-dono-dos-seus-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
-| 07 | [ Como Proteger a Privacidade Online](/Introducao/protegendo-seus-dados-e-privacidade/07-como-proteger-a-privacidade-online.md) | Protegendo seus dados e privacidade | ✅ Concluído |
-| 08 | [ Dispositivos e Tecnologias na Segurança Cibernética](/Introducao/protegendo-a-organizacao/08-dispositivos-e-tecnologias-na-seguranca-cibernetica.md) | Protegendo a Organização | ✅ Concluído |
+| 01 | [ Métodos de infiltração](/01-Introducao/01-ataques-conceitos-tecnicas/01-metodos-de-infiltracao.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 02 | [ Exploits e Vulnerabilidades de segurança](/01-Introducao/01-ataques-conceitos-tecnicas/02-exploits-e-vulnerabilidades-de-seguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 03 | [ O Cenário da Cibersegurança](/01-Introducao/01-ataques-conceitos-tecnicas/03-o-cenario-da-ciberseguranca.md) | Ataques, Conceitos e Técnicas | ✅ Concluído |
+| 04 | [ Como Proteger a Rede e os Dispositivos](/01-Introducao/02-protegendo-seus-dados-e-privacidade/04-como-proteger-a-rede-e-os-dispositivos.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 05 | [ Manutenção de Dados](/01-Introducao/02-protegendo-seus-dados-e-privacidade/05-manutencao-de-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 06 | [ Quem é o Dono dos Seus Dados](/01-Introducao/02-protegendo-seus-dados-e-privacidade/06-quem-e-o-dono-dos-seus-dados.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 07 | [ Como Proteger a Privacidade Online](/01-Introducao/02-protegendo-seus-dados-e-privacidade/07-como-proteger-a-privacidade-online.md) | Protegendo seus dados e privacidade | ✅ Concluído |
+| 08 | [ Dispositivos e Tecnologias na Segurança Cibernética](/01-Introducao/03-protegendo-a-organizacao/08-dispositivos-e-tecnologias-na-seguranca-cibernetica.md) | Protegendo a Organização | ✅ Concluído |
+| 09 | [ Abordagem Comportamental à Segurança](/01-Introducao/03-protegendo-a-organizacao/09-abordagem-comportamental-a-seguranca.md) | Protegendo a Organização | ✅ Concluído |
 
 ---
 
