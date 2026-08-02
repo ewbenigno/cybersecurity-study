@@ -50,6 +50,7 @@ flowchart LR
 | 07 | [ Como Proteger a Privacidade Online](/01-Introducao/02-protegendo-seus-dados-e-privacidade/07-como-proteger-a-privacidade-online.md) | Protegendo seus dados e privacidade | ✅ Concluído |
 | 08 | [ Dispositivos e Tecnologias na Segurança Cibernética](/01-Introducao/03-protegendo-a-organizacao/08-dispositivos-e-tecnologias-na-seguranca-cibernetica.md) | Protegendo a Organização | ✅ Concluído |
 | 09 | [ Abordagem Comportamental à Segurança](/01-Introducao/03-protegendo-a-organizacao/09-abordagem-comportamental-a-seguranca.md) | Protegendo a Organização | ✅ Concluído |
+| 10 | [ Questões Legais e Éticas](/01-Introducao/04-questoes-legais/10-questoes-legais-e-eticas.md) | Questões Legais | ✅ Concluído |
 
 ---
 
